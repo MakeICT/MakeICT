@@ -23,7 +23,7 @@
     "bcrypt": "0.8.5",
     "bootstrap": "3.3.6",
     "cron": "1.1.0",
-    "jquery": "2.2.4",
+    "jquery": "3.5.0",
     "pg": "4.5.5",
     "restify": "4.1.0",
     "socket.io": "1.4.6"
